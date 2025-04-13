@@ -1,4 +1,4 @@
-# Moving Averages on S&P 500 📈
+# Moving Averages on S&P 500
 
 This project analyzes S&P 500 stock data from 1927 to 2020 to evaluate the effectiveness of two widely used technical indicators: the **Simple Moving Average (SMA)** and the **Exponential Moving Average (EMA)**. The analysis focuses on generating buy/sell signals, comparing SMA vs. EMA performance, and identifying which may serve better for long- vs. short-term investment strategies.
 
